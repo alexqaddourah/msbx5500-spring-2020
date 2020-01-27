@@ -11,3 +11,7 @@ Attempting github desktop pull upstream changes
 Open an "issue" on your forked repo with the name of the lab or something, and describing / linking to where I can see your work for the given lab.
 
 You will have to enable "issues" to be opened on your forks. Go to your fork > "Settings" > check the box for "Issues."
+
+## Screenshots for Lab 1
+
+https://user-images.githubusercontent.com/56977428/73217133-90a36480-4114-11ea-90e0-6fe5116b254b.png
